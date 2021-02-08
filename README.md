@@ -5,7 +5,7 @@ practice basic crawler in python
   * login ruten, shopee
   * get monthly stock report
   * grab proxy pool
-  * try to use selenium
+  * use selenium to login facebook
 
 ## use-tool：
   * munch,loguru
